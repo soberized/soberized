@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soberized&show_icons=true" alt="GitHub Stats Right">
+  <img src="https://github-readme-stats.vercel.app/api?username=soberized&show_icons=true&theme=transparent" alt="GitHub Stats Right">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soberized&show_icons=true" alt="GitHub Stats Left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soberized&show_icons=true&theme=transparent" alt="GitHub Stats Left">
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
