@@ -1,17 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sober</h1>
-
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soberized&show_icons=true&theme=transparent" alt="GitHub Stats Right">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soberized&show_icons=true&theme=transparent" alt="GitHub Stats Left">
-</p>
+  
+```cpp
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+#include <iostream> 
+#include <string> 
+#include <vector> 
+
+class Info {
+public:
+
+    std::string Name;
+    std::string Role;
+    std::vector<std::string> LanguagesSpoken;
+
+    Info() {
+        Name = "soberized";
+        Role = "student";
+        LanguagesSpoken = {"en_GB"}; 
+    }
+
+    void SayFact() const {
+        std::cout << "One last whisper before the dark consumes" << std::endl;
+    }
+};
+
+int main() {
+    Info me;
+    me.SayFact();
+    return 0;
+}
+````
+</p>
+<p align="center"><i>- Soberized -</i></p>
+
+
+<br /><br />
+<details>
+<summary>more</summary>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python" /><br>
-</div>
+  
+  <a href="https://github.com/soberized">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Sober" alt="Typing SVG" />
+  </a>
+  <br />
+ 
+  <img src="https://i.gifer.com/XOsa.gif" alt="bat flying" width="150" />
+  <br /><br />
+  <br /><br />
+
+
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Soberized&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak Stats" />
+
+  <br /><br />
+
+
